@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "year": 2010
+    },
+    {
+      "id": "2",
+      "title": "ggdjdsf",
+      "year": 4353,
+      "genre": "dsfn"
+    },
+    {
+      "id": "a60b",
+      "title": "king",
+      "genre": "none",
+      "year": 2000
+    },
+    {
+      "id": "90b1",
+      "title": "heo",
+      "genre": "heofhwe",
+      "year": 5
+    }
+  ]
+}
